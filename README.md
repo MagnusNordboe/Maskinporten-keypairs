@@ -3,7 +3,7 @@ A tiny script that generates public+private keys in appropriate format for addin
 It has only a single dependency.
 
 # USAGE
-node generate-keys.js <desired key ID>
+node generate-keys.js \<desired key ID>
 
 # DEPS
 Rasha https://www.npmjs.com/package/rasha
